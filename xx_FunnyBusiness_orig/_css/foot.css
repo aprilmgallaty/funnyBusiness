@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* footer */
+
+footer p, footer li{
+    font-size: 10px;
+}
+
+footer{
+    width: 1024px;
+    height: 125px;
+    margin: 0 auto;
+}
+
+#foot1{
+    margin: 0 auto;
+    clear: both;
+    float: right;
+    padding-bottom: 10px;
+}
+
+#foot2{
+    margin: 0 auto;
+    float: right;
+    clear: both;
+    padding-bottom: 10px;
+}
+
+#foot3{
+    margin: 0 auto;
+    float: right;
+    clear: both;
+    padding-bottom: 10px;
+}
+
+/*bottom Nav */
+
+
+#secNav{
+    display: inline-block;
+    text-align: center;
+}
+
+#secNav ul li{
+    display: inline-block;
+    padding: 0 0 0 10px;
+}
+
+#secNav a{
+    outline: none;
+    text-decoration: none;
+    color: #000;
+}
+
+#secNav a{
+	text-decoration: none;
+	color: #000;
+}
+
+#secNav a:link{
+	color: #000;
+}
+
+#secNav a:hover{
+	color: #d81417;
+}
+
+#secNav ul{
+	list-style-type: none;
+}
+
+#designedBy{
+    float: right;
+}

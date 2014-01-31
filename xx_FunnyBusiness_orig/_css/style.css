@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*fonts*/
+
+@font-face{
+    font-family: FBLogoFont;
+    src: url('../_fonts/oogieboogie-webfont.ttf')
+}
+
+@font-face{
+    font-family: FBstandardTextFont;
+    src: url('../_fonts/timess__-webfont.ttf')
+}
+
+h1{
+   font-family: FBLogoFont, helvetica, sans-serif;
+   font-size: 40px;
+}
+
+h2{
+    font-family: FBstandardTextFont;
+    font-size: 30px;
+    font-weight: bold;
+    font-variant: small-caps;
+    padding-bottom: 5px;
+}
+
+p, label{
+   font-family: FBstandardTextFont;
+   font-size: 16px;
+}
+
+li{
+   font-family: FBstandardTextFont;
+   font-size: 14px; 
+}
+
+h3{
+    font-family: FBstandardTextFont;
+    font-size: 18px;
+    font-weight: bold;
+    font-variant: small-caps;
+    padding-bottom: 5px;
+    
+}
+
+h4{
+    font-family: FBstandardTextFont;
+    font-size: 16px;
+    font-weight: bold;
+    font-variant: small-caps;
+    padding-bottom: 5px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.credit{
+    font-size: 12px;
+    font-style: italic;
+}
+
+.clear{
+    clear: both;    
+}
+
+.hr{
+    border-bottom: #ccc 1px solid;
+    clear: both;
+    padding-top: 10px;
+}
+
+/* center */
+
+#mainContent{
+    width: 1024px;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+
+

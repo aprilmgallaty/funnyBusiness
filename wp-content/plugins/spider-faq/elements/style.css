@@ -1,0 +1,169 @@
+
+/*link size is a little smaller for this section*/
+
+#spiderFAQ a { color:#ffffff ; text-decoration:none !important; cursor:pointer !important; }
+#spiderFAQ a:hover { color:#e1e31b text-decoration:none !important; }
+/* a.more {
+	
+} */
+
+#spiderFAQ a.more-link {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "lucida Sans Console", Arial, Helvetica, sans-serif !important;
+	font-size:13px !important;
+	font-weight:bold !important;
+	color:#6699cc !important;
+}
+
+
+
+#spiderFAQ #contentInner {
+	
+	margin:0 auto;
+	padding: 0 0 0 15px;
+	min-height:400px;
+	height:auto !important;
+	
+	
+}
+
+#spiderFAQ .content {
+	float:left;
+	overflow:visible;
+	margin:0;
+}
+
+
+#spiderFAQ .post_title {
+
+font-size:13px;
+height:40px;
+margin:2px;
+padding:4px 0;
+margin-bottom: 2px !important;
+
+}
+	
+	
+
+
+/*Live Comment Preview Class*/
+
+
+
+#spiderFAQ ul.posts {
+	list-style:none;
+        padding: 0 0 0 15px;
+	margin:0 0 32px 0;
+	
+}
+
+
+
+#spiderFAQ ul.posts li{
+	list-style:none;
+	padding:1px 0 0 0;
+	margin:0;
+	position:relative;
+
+}
+
+
+
+
+
+
+#spiderFAQ .posts .post_content {
+	/* DO NOT put any margin / padding here */
+	padding:0;
+	margin:0;
+
+}
+     
+
+	
+
+
+#spiderFAQ .searchform {
+	font-family:Arial,Helvetica,Verdana,sans-serif;
+	font-size:12px;
+	padding-top:12px;
+	display:block;
+       
+}
+
+
+#spiderFAQ .searchform input {
+	font-family:Arial,Helvetica,Verdana,sans-serif;
+	font-size:12.5px;
+	
+}
+
+
+#spiderFAQ .searchform .search_keyword {
+background:none repeat scroll 0 0;
+margin:0;
+padding:2px ;
+vertical-align:top;
+}
+
+
+	
+#spiderFAQ .expcoll {
+text-align:right;
+}
+
+#spiderFAQ .ttext{
+line-height: 1.2em;
+padding-right:3px;
+}
+
+#spiderFAQ .atext{
+padding:4px 7px;
+}
+	
+#spiderFAQ .cattitle{
+text-align:center;
+}	
+
+#spiderFAQ .catdes{
+line-height: 1.5em !important;
+text-align:left;
+}
+
+#spiderFAQ .txtcont p {
+margin-top: 0px !important;
+line-height: 1.5em;
+margin-bottom:15px;
+}
+
+#spiderFAQ .ttext{
+line-height: 1.5em !important;
+padding-right:3px;
+font-family: arial, helvetica, sans-serif !important;
+font-weight:bold !important;
+display: table-cell;
+vertical-align: middle;
+}
+
+
+
+
+
+#spiderFAQ input[type="submit"]{
+padding:0 !important;
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+background-image:none !important;
+}
+
+#spiderFAQ input[type="submit"]:hover{
+background-image:none;
+
+}
+
+#spiderFAQ input[type="text"]{
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+
+}
+

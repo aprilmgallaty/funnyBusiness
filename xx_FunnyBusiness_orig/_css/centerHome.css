@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.featuredClowns{
+    width: 300px;
+    height: auto;
+    margin-left: 141px;
+    float: left;
+    text-align: center;
+}
+
+.clownTypes{
+    width: 300px;
+    height: auto;
+    float: left;
+    margin-left: 141px;
+    text-align: center;
+}
+
+.blogSample{
+    width: 150px;
+    height: auto;
+    margin: 10px 0 0 84px;
+    float: left;
+    text-align: left;
+}
+
+#para{
+    text-align: left;
+}
+
+#desc{
+    margin-top: 10px;
+}

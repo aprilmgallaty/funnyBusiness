@@ -1,0 +1,123 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*header & logo */
+header{
+    width: 1024px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#logo{
+    padding: 10px 0 0 25px;
+    float: left;
+}
+
+#logo h1{
+     margin-top: 103px;
+}
+
+#logoImg{
+    float: left;
+}
+
+#headBG h1{
+    float: left;
+    margin-left: 15px;
+}
+
+/* social */
+
+#social{
+    float:right;
+    margin-top: 84px;
+}
+#fb{
+    background-image: url(../_img/social/fb25x35_reg.png);
+    width: 25px;
+    height: 35px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right:5px;
+}
+
+#tw{
+    background-image: url(../_img/social/tw25x35_reg.png);
+    width: 25px;
+    height: 35px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right:5px;
+}
+
+#rss{
+    background-image: url(../_img/social/rss25x35_reg.png);
+    width: 25px;
+    height: 35px;
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+
+#fb:hover{
+    background-image: url(../_img/social/fb25x35_ro.png);
+    width: 25px;
+    height: 35px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+#tw:hover{
+    background-image: url(../_img/social/tw25x35_ro.png);
+    width: 25px;
+    height: 35px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+#rss:hover{
+    background-image: url(../_img/social/rss25x35_ro.png);
+    width: 25px;
+    height: 35px;
+    background-repeat: no-repeat;
+    float: left;  
+}
+
+/* nav */
+
+nav{
+    padding: 5px;
+    float: right;
+    clear: right;
+    
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 10px 0 0 10px;
+}
+nav a{
+    outline: none;
+    text-decoration: none;
+    color: #000;
+}
+
+nav a{
+	text-decoration: none;
+	color: #000;
+}
+
+nav a:link{
+	color: #000;
+}
+
+nav a:hover{
+	color: #d81417;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+
+
